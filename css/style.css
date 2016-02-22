@@ -1,0 +1,44 @@
+/* fix font */
+h1{
+  text-align: center;
+  font-family:'aniron', fantasy;
+  color: #FFD700;
+  position: absolute;
+  width: 100%;
+}
+
+h2 {
+  font-family:'aniron', fantasy;
+  color: #FFD700;
+  text-align: center;
+  margin-top: -5em;
+  position: absolute;
+  width: 100%;
+}
+
+img{
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.image {
+    position: relative;
+}
+
+body {
+  background: black;
+}
+
+a {
+  text-decoration: none;
+  color: #ccc;
+  text-align: center;
+  position: absolute;
+  width: 100%;
+}
+a:hover {
+  color: red;
+}
+
+
